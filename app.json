@@ -13,13 +13,15 @@
       "backgroundColor": "#09090B"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.gracetech.planner"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#09090B"
-      }
+      },
+      "package": "br.com.gracetech.planner"
     },
     "web": {
       "bundler": "metro",
